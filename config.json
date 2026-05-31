@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyronnect",
+        "uuid": 13783770,
+        "checksum": "a7541q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
